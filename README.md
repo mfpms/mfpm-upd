@@ -1,2 +1,2 @@
-# mufupd
-The update manager of mufpkg
+# mfpd
+The update manager of mfpkg
