@@ -1,2 +1,2 @@
 # mfpd
-The update manager of mfpkg
+The update manager of mfpm
